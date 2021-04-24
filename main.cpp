@@ -1,3 +1,11 @@
+//---------------------------------------------------//
+//@Author: Saransh Thukral
+//@mailing ID : saranshthukral231@gmail.com
+//@Student College ID:  saranshthukral.1js16cs090@gmail.com
+//Date: 24/04/21
+//PeakCruit ID: CR-4697
+//--------------------------------------------------//
+
 #include <iostream>
 #include <bits/stdc++.h>
 #include <fstream>
